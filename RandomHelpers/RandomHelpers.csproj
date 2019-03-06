@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>ridicoulous</Authors>
+    <Description>Simple helper library to get exponential and normal distributed number(s) and shuffling of list</Description>
+    <PackageReleaseNotes>exponential, normal distribution. Shuffle inplementation</PackageReleaseNotes>
+    <PackageTags>exponential distribution normal distribution shuffle</PackageTags>
+  </PropertyGroup>
+
+</Project>
